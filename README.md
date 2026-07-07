@@ -66,6 +66,6 @@ A feature-rich instant messaging application built for speed and low latency.
 ---
 
 ### ✨ Let's Connect!
-* 💼 **LinkedIn:** [/in/your-profile](YOUR_LINKEDIN_LINK)
-* 📧 **Email:** [your.email@gmail.com](mailto:YOUR_EMAIL)
+* 💼 **LinkedIn:** [/in/your-profile](inkedin.com/in/reham-saado-990066306)
+* 📧 **Email:** [your.email@gmail.com](rehamsaado37@gmail.com)
 * 🚀 **Upwork/Khamsat:** [Available for Remote Roles and Freelance Contracts]
